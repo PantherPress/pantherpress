@@ -1,3 +1,7 @@
-#font {
+#font_title {
+  font-family: 'Overpass', sans-serif;
+}
+
+#font_sub {
   font-family: 'Overpass', sans-serif;
 }
